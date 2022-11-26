@@ -1,0 +1,21 @@
+.alert {
+    bottom: 205px;
+    position: absolute;
+    width: calc(100% - 50px);
+    margin: 0 25px;
+    padding: 25px;
+    background-color: #fff;
+    border-radius: 25px;
+    border: 1px solid #333;
+    z-index: 2;
+}
+
+.background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.6);
+}

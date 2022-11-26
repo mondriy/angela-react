@@ -1,0 +1,10 @@
+.audio {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    background-color: #6e23e8;
+    border-radius: 55px;
+    align-self: center;
+}
